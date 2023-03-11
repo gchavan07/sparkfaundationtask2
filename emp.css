@@ -1,0 +1,26 @@
+
+EMPLOYEE{
+Display: block; margin-left:0;
+magin-bottom: 30pt;
+Color:White; 
+background-color: Grey;
+text-align: center;
+}
+CATALOG {
+Width:100%;
+background-color: #ffffff;
+} 
+Emp_Id {
+Color: Red; display:
+block; font-size: 20pt;
+
+}
+Emp-Name {
+display: block; color:
+#0000ff; font-size: 20pt;
+}
+Emp_Age {
+Color:#00000; Display:
+block; Margin-left: 20pt;
+Color:#00000; 
+Display:block;
